@@ -9,7 +9,7 @@ TOKEN = os.getenv("8833264285:AAGKR-aPL72h9PjhkDlOxS2G_JVgzJlCXN0
 ")
 CHAT_ID = os.getenv("8833264285")
 
-bot = Bot(token=TOKEN)
+bot = Bot(token=8833264285:AAGKR-aPL72h9PjhkDlOxS2G_JVgzJlCXN0)
 
 exchange = ccxt.binance()
 
